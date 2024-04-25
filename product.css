@@ -28,7 +28,7 @@ body{
     display: flex; 
     flex-direction: column;
     padding: 30px;
-    gap: 32px;
+    gap: 25px;
     font-weight: 500;
 }
 h5{
@@ -38,7 +38,7 @@ h5{
     font-size: 17px;
 }
 h1{
-    font-size: 28px;
+    font-size: 25px;
     font-weight: 700;     
 }
 p{
@@ -51,7 +51,7 @@ p{
 }
 
 .before{
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 700;
     margin-right: 20px;
     color: hsl(158, 36%, 37%);
@@ -73,7 +73,7 @@ p{
 }
 .cart a{
     color: hsl(0, 0%, 100%);
-    font-size: 17px;
+    font-size: 15px;
 }
 .cart img{
     width: 10px;
